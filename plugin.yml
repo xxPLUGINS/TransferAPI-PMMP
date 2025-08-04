@@ -1,0 +1,11 @@
+name: "TransferAPI"
+api: ["5.0.0"]
+version: "1.0.0"
+description: "Public TransferAPI for WaterdogPE for PocketMine Server"
+main: TransferAPI\Main
+author: "xxFLORII"
+
+permissions:
+  transferapi.sendto:
+    description: SendTo Command Permission
+    default: op
